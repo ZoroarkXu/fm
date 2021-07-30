@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px blue;
+}
+
+.notey{
+    font-size: 15px;
+    color: blue;   
+   }
+
+   .copy_right_booper{
+    position: fixed;
+    color: rgb(255, 0, 0);
+    bottom: 0;
+    width:100%;
+    background-color:rgb(0, 255, 0);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid crimson;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px darkslateblue;
+}
